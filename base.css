@@ -81,7 +81,7 @@ img {
 }
 .banner {
 	color: #fff;
-    background-image: url("city2.jpg") no-repeat center;
+    background-image: url("images/city2.jpg") no-repeat center;
     background-size: cover;
 	padding: 100px 100px;
 	margin-bottom: 48px;
